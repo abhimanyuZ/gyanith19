@@ -1,0 +1,37 @@
+.head_content
+{
+	/*background-color: red;*/
+}
+.image
+{
+	float:left;
+	/*background-color: red;*/
+}
+.header h1
+{
+	font-size: 40px;
+}
+.header 
+{
+	background: DodgerBlue;
+	text-align: center;
+	color:white;
+	padding: 80px; 
+}
+
+.footer 
+{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #333333;
+   color: white;
+   text-align: center;
+}
+
+.special
+{
+	text-align: center;
+}
+

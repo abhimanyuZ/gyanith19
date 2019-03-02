@@ -1,1 +1,14 @@
 
+Start Nodejs installation
+node --version
+npm --version
+npm i -g ionic
+ionic --version
+ionic start game
+(tabs)
+
+cd game
+ionic serve --lab
+npm i -g cordova 
+ionic cordova build android
+
